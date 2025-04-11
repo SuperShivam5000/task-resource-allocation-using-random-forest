@@ -7,7 +7,7 @@ Allocates resources to tasks using an optimized random forest algorithm
 3) Run Model and Allocate Resources    
 
 ### Tasks:  
-![Screenshot 2025-04-11 143625](https://github.com/user-attachments/assets/459baa54-7f67-4c6c-82cf-43c2fae10399)
+![Screenshot 2025-04-11 143913](https://github.com/user-attachments/assets/17b08c0b-52a4-4706-be08-25d26941d3be)
 ### Resources:  
 ![Screenshot 2025-04-11 144259](https://github.com/user-attachments/assets/09bd1567-b3e4-4dbe-9307-405916cdc6d3)
 ### Allocation:  
