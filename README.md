@@ -1,7 +1,7 @@
 ## Task Resource Allocation Using Random Forest
 Allocates resources to tasks using an optimized random forest algorithm  
 
-### Tasks:  
+### Does The Following:  
 1) Generate Data (Optional, use your own data)  
 2) Train Model
 3) Run Model and Allocate Resources    
